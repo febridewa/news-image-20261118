@@ -8,10 +8,11 @@
 front-page poster summing up the day: Trump in Manila for the first Quad in
 two years, US and Iranian forces trading fire over Bahrain, Ukraine
 collapsing a span of the Crimea bridge, Nvidia's 103% revenue jump, Cyclone
-Akvan bearing down on India's east coast, and 25 more stories from six
-continents, with a map of where it all happened. 30 stories in total, every
-one checked against live reporting (AP, Reuters, Al Jazeera, BBC, CNN, IMD,
-Kyodo News, CSK).
+Akvan bearing down on India's east coast, Democrat Peltola winning Alaska
+to put the Senate at 56–44, Russia firing 141 drones at Ukraine, and 38
+more stories from six continents and space, with a map of where it all
+happened. 45 stories in total, every one checked against live reporting
+(Reuters, AP, AFP, BBC, Al Jazeera and others).
 
 Referral code: `6etrfz79`
 
@@ -22,11 +23,12 @@ Referral code: `6etrfz79`
 ## How it was made
 
 The poster was composed as a single 1024×1024 front page: three
-photojournalistic panels (the Bahrain radar base under drone attack, the
-collapsed Crimea bridge, the Manila summit) with two more stories told in
-eight numbered cards, a numbered list of 19 further stories, a world map
-with the 11 main stories pinned, and a by-the-numbers strip. All text on
-the poster is drawn as crisp vector type — no AI-generated lettering, so
+hand-drawn illustrated leads (a schematic Gulf map, the collapsing Crimea
+bridge, the Manila summit table) with ten more stories told in ten
+illustrated cards, a numbered list of 32 further stories, a dotted world
+map with the 13 main stories pinned and the rest dotted by region, and a
+by-the-numbers strip. All art is drawn in code — no photographs. All text
+on the poster is drawn as crisp vector type — no AI-generated lettering, so
 nothing is garbled or misspelled.
 
 ## Run it
